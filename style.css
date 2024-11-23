@@ -1,0 +1,40 @@
+
+
+/*
+
+
+nombre
+
+body
+
+
+
+-- Element
+header
+
+-- Class
+.header1
+.header2
+
+-- Id
+#main-header
+
+*/
+
+body{
+    color: antiquewhite;
+    background-color: blue;
+}
+
+h1{
+    color: yellow;
+}
+
+ul#primer-ul > li a {
+    color: red;
+
+}
+
+ul.lista-no-ordenada > li a {
+    background-color: chartreuse;
+}
